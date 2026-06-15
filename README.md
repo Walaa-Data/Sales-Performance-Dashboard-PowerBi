@@ -11,11 +11,11 @@ Interactive Power BI dashboard analyzing sales performance, profitability, produ
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](./Dashboard.png)
 
 ## Business Insights
 
-![Business Insights](business-insights.png)
+![Business Insights](./Business%20Insights.png)
 
 ## Tools Used
 - Power BI
